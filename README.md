@@ -1,7 +1,8 @@
 # Investigating-Tmdb-dataset
 This contains packages like numpy, pandas, matplotlib used in creating an analysis based on the posed questions you'll see on the introduction section in the .ipynb file. 
 This database contains the following features:-
-<li><ol>
+<li>
+<ul>
 movie_id - A unique identifier for all movies.
 imdb_id - A unique identifier for each movie on IMDB.
 cast - The name of lead and supporting actors.
@@ -22,4 +23,4 @@ runtime - The running time of the movie in minutes.
 tagline - Movie's tagline.
 vote_average - average ratings the movie recieved.
 budget_adj - shows the budget associated movie in terms of 2010 dollars.
-revenue_adj - shows the revenue associated movie in terms of 2010 dollars.</ol></li>
+revenue_adj - shows the revenue associated movie in terms of 2010 dollars.<ul></li>
